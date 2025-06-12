@@ -332,7 +332,7 @@ main li {
 
 /* 活躍分頁的樣式 */
 .tab-button.active {
-    background-color: rgb(217, 228, 240); /* 活躍分頁的背景色 (來自側邊欄深色) */
+    background-color: rgb(220, 240, 217); /* 活躍分頁的背景色 (來自側邊欄深色) */
     color: #1c5a1a; /* 活躍分頁的文字顏色 (來自側邊欄黃色) */
     /* 移除 border-bottom: 3px solid #ffd700; 以去除黃色線 */
     border-top-left-radius: 15px;
